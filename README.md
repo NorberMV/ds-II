@@ -1,2 +1,3 @@
 # ds-II
-Data Science II: Machine Learning for DS
+Data Science II: Machine Learning for DS.
+From Coderhouse.
